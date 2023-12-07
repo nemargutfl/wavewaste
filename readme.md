@@ -8,8 +8,9 @@ Plastic pollution has been on a rapid rise in the past few decades. As repoted i
 ### Data Sources/Libraries
 
 - [Our World in Data](https://ourworldindata.org/plastic-pollution)
-- [Basemap](https://hub.arcgis.com/datasets/esri::world-countries-generalized/explore?location=-0.000000%2C0.000000%2C2.00)
+- [World Choropleth](https://hub.arcgis.com/datasets/esri::world-countries-generalized/explore?location=-0.000000%2C0.000000%2C2.00)
 - [Leaflet](https://leafletjs.com/)
 - [jQuery](https://jquery.com/)
 - [Google Fonts](https://developers.google.com/fonts)
 - [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+- Basemap found at [Leaflet Providers](https://leaflet-extras.github.io/leaflet-providers/preview/)
